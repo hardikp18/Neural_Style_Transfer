@@ -38,8 +38,12 @@ Style includes- Textures, colors, and the patterns.
 
 
 ## References:-
-https://arxiv.org/pdf/1508.06576.pdf <br>
-https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+<ul>
+  <li>https://arxiv.org/pdf/1508.06576.pdf</li>
+  <li>https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf</li>
+</ul>
+ 
+
 
 
 
